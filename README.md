@@ -7,8 +7,10 @@ This is my *first* app on streamlit.
 
 # List
 `print("This is my first app on streamlit")`
-1. Bullet item
-2. Another  item
+1. 첫 번째
+2. 두 번째
+3. 세 번째
+   
 - 항목 1
 - 항목 2
   - 하위 항목
