@@ -1,49 +1,38 @@
-# my-first-app
-## Description
-~~This is my **first** app on streamlit.~~
-This is my *first* app on streamlit.
+Hello SKKU 🎓
+A simple web application built with Streamlit.
+📋 Overview
+This is a beginner-friendly Streamlit web app that displays a welcome message. It serves as a starting point for building interactive Python web applications.
+🚀 Getting Started
+Prerequisites
 
----
+Python 3.7+
+pip
 
-# List
-`print("This is my first app on streamlit")`
-1. 첫 번째
-2. 두 번째
-3. 세 번째
-   
-- 항목 1
-- 항목 2
-  - 하위 항목
+Installation
 
----
- 
-# Blockquote
-> 이것은 인용문입니다.
-> 여러 줄도 가능해요.
+Clone the repository
 
----
+bash   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
 
-# code block with language
-```python
-print("Hello, World!")
-```
+Install dependencies
 
----
+bash   pip install streamlit
 
-# Table
-| 이름 | 나이 |
-|------|------|
-| 철수 | 20   |
-| 영희 | 22   |
+Run the app
 
----
+bash   streamlit run app.py
 
-# Checkbox
-- [x] 완료된 항목
-- [ ] 미완료 항목
+Open your browser
+Navigate to http://localhost:8501
 
----
+📁 Project Structure
+your-repo-name/
+├── app.py        # Main Streamlit application
+└── README.md     # Project documentation
+🛠️ Built With
 
-# Link & Image
-[링크 텍스트](https://example.com)
-![이미지 설명](이미지URL)
+Streamlit - The web framework used
+
+📄 License
+This project is open source and available under the MIT License.
