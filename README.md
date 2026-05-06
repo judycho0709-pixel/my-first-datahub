@@ -1,38 +1,41 @@
-Hello SKKU 🎓
+# Hello SKKU 🎓
 A simple web application built with Streamlit.
-📋 Overview
+
+## 📋 Overview
 This is a beginner-friendly Streamlit web app that displays a welcome message. It serves as a starting point for building interactive Python web applications.
-🚀 Getting Started
+
+## 🚀 Getting Started
 Prerequisites
 
 Python 3.7+
 pip
 
-Installation
+## Installation
 
-Clone the repository
+### Clone the repository
 
 bash   git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 
-Install dependencies
+### Install dependencies
 
 bash   pip install streamlit
 
-Run the app
+### Run the app
 
 bash   streamlit run app.py
 
-Open your browser
+### Open your browser
 Navigate to http://localhost:8501
 
-📁 Project Structure
+## 📁 Project Structure
 your-repo-name/
 ├── app.py        # Main Streamlit application
 └── README.md     # Project documentation
-🛠️ Built With
+
+## 🛠️ Built With
 
 Streamlit - The web framework used
 
-📄 License
+## 📄 License
 This project is open source and available under the MIT License.
